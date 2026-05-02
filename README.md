@@ -8,6 +8,7 @@ _**What I’m working on**_
 - End-to-end data analysis projects
 - SQL and dashboard development
 - Learning cloud tools such as Azure & AWS
+- Coursework based projects
 
 <br>
 

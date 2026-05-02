@@ -9,15 +9,28 @@ _**What I’m working on**_
 - SQL and dashboard development
 - Learning cloud tools such as Azure & AWS
 
+<br>
 
-## _Featured projects_:
-- Amazon Fulfillment Center People Analytics and Operational Strategy Analysis
-- Melio: your mood. your music
-
+🔗 Connect with me: [LinkedIn](https://linkedin.com/in/bezades65)
 
 
-## _Socials_:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bezades65) 
+<br>
+  
+## _Featured Projects_
+
+### _Amazon Fulfillment Center People Analytics_
+End-to-end analysis of employee feedback and operational trends.
+
+🔗[View Project](https://github.com/bezades65/amazon-people-analytics)
+
+
+### _Melio: your mood. your music._
+Music recommendation app based on mood analysis.
+
+🔗[View Project](https://github.com/ksu-is/Melio-Quiz-Based-Music-Recommendation)
+
+
+<br>
 
 ## _Skills_:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)

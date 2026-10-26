@@ -25,7 +25,7 @@ End-to-end analysis of employee feedback and operational trends.
 🔗 [View Project](https://github.com/bezades65/amazon-people-analytics)
 
 
-### _Melio: your mood. your music._
+### _Melio_
 Music recommendation app based on mood analysis.
 
 🔗 [View Project](https://github.com/ksu-is/Melio-Quiz-Based-Music-Recommendation)

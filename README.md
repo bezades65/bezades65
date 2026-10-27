@@ -22,7 +22,7 @@ _**What I’m working on**_
 ### _Amazon Fulfillment Center People Analytics_
 End-to-end analysis of employee feedback and operational trends.
 
-🔗 [View Project](https://github.com/bezades65/amazon-people-analytics)
+🔗 [View Project](https://github.com/bezades65/Amazon-Employee-Voice-Analytics)
 
 
 ### _Melio_

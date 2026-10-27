@@ -7,8 +7,8 @@ I’m interested in data analyst, data science, and business or HR analytics rol
 _**What I’m working on**_
 - End-to-end data analysis projects
 - SQL and dashboard development
-- Learning cloud tools such as Azure & AWS
 - Coursework based projects
+- Google Advanced Data Analytics certificate
 
 <br>
 
